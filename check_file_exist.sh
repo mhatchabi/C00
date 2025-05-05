@@ -1,4 +1,3 @@
-echo "entrer le nom du fichier"
 read filename
 
 if [ -f "$filename" ];
